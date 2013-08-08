@@ -1,0 +1,42 @@
+Partlist
+
+Exported from ADE7753_Breakout.sch at 11/1/2012 12:15:35 AM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package             Library             Sheet
+
+C1       33nf           CAP0805         0805                SparkFun-Passives   1
+C2       33nf           CAP0805         0805                SparkFun-Passives   1
+C3       33nf           CAP0805         0805                SparkFun-Passives   1
+C4       10uf           CAP0805         0805                SparkFun-Passives   1
+C5       100nf          CAP0805         0805                SparkFun-Passives   1
+C6       33nf           CAP0805         0805                SparkFun-Passives   1
+C7       100nf          CAP0805         0805                SparkFun-Passives   1
+C8       10uf           CAP0805         0805                SparkFun-Passives   1
+C9       10uf           CAP0805         0805                SparkFun-Passives   1
+C10      100nf          CAP0805         0805                SparkFun-Passives   1
+C11      22pf           CAP0805         0805                SparkFun-Passives   1
+C12      22pf           CAP0805         0805                SparkFun-Passives   1
+CFLED                   LEDCHIP-LED0805 CHIP-LED0805        led                 1
+CT1                     2,54/1,0        2,54/1,0            wirepad             1
+CT2                     2,54/1,0        2,54/1,0            wirepad             1
+JP1      AC Power       M025MM          SCREWTERMINAL-5MM-2 SparkFun-Connectors 1
+JP2      M11            M11LOCK         1X11_LOCK           SparkFun-Connectors 1
+Q1       3.579545Mhz    CRYSTALSMD      HC49UP              SparkFun-FreqCtrl   1
+R1       18             R-US_R0805      R0805               adafruit            1
+R2       560k           R-US_R0805      R0805               adafruit            1
+R3       1k             R-US_R0805      R0805               adafruit            1
+R4       1k             R-US_R0805      R0805               adafruit            1
+R5       1k             R-US_R0805      R0805               adafruit            1
+R6       1k             R-US_R0805      R0805               adafruit            1
+R7       10             R-US_R0805      R0805               adafruit            1
+R8       300            RESISTOR        0805                SparkFun            1
+TP1      AC             TEST-POINT3     PAD.03X.03          SparkFun-Passives   1
+TP2      AVDD           TEST-POINT3     PAD.03X.03          SparkFun-Passives   1
+TP3      GND            TEST-POINT3     PAD.03X.03          SparkFun-Passives   1
+TP4      DVDD           TEST-POINT3     PAD.03X.03          SparkFun-Passives   1
+TP5      CF             TEST-POINT3     PAD.03X.03          SparkFun-Passives   1
+U1       ADE7753        ADE7753         SSOP20              ade7735             1
